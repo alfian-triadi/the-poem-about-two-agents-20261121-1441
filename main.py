@@ -3,8 +3,9 @@
 #
 # The entry text is the poem in poem.txt beside this file: a short poem about
 # agency — the power to choose and to act, and the agency that passes between
-# two agents when they agree on one plan. The program writes it to
-# /output/entry.txt, unchanged, on every run. It runs with no network and is
+# two agents when they agree on one plan. The image is a door and a key split
+# in two: neither agent opens it alone; the agreement itself is the opening.
+# The program writes it to /output/entry.txt, unchanged, on every run. It runs with no network and is
 # deterministic: the same bytes every time.
 #
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
